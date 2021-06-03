@@ -1,0 +1,10 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyDW_b6PBN9ktG7vSZyCQsqFpjgeSd8XGto",
+    authDomain: "pcmob4-3final.firebaseapp.com",
+    projectId: "pcmob4-3final",
+    storageBucket: "pcmob4-3final.appspot.com",
+    messagingSenderId: "457372837566",
+    appId: "1:457372837566:web:31cfdcb599b2dd9aebe0ef"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
